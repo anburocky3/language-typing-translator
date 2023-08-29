@@ -6,7 +6,8 @@ A simple language typing translator using Google input tools api. Made on ReactJ
 
 ![Screenshots](/public/screenshot1.png)
 
-License: MIT
+#### License: MIT
 
-Authors:
-![Anbuselvan Rocky](https://fb.me/anburocky3)
+#### Authors:
+
+[Anbuselvan Rocky](https://fb.me/anburocky3)
